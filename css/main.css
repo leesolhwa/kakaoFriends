@@ -232,6 +232,7 @@ main .box {
   padding: 0 24px  0 24px ;  /*0 10px  0 24px ;*/
   font-size: 15px;
   font-weight: bold;
+  color: #000;
 }
 
 .line::after{
@@ -408,6 +409,7 @@ main .box {
   background: #f7f303;
   margin-top: 15px;
   font-size: 14px; font-weight: bold;
+  color: #000;
 }
 .login_popup .ico_kakao{
   display: inline-block;
